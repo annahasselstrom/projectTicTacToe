@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Square } from 'components/Square';
-import { game } from '../reducers/game';
+//import { game } from '../reducers/game';
 //console.log(game)
 
 // Component container
